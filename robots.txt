@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sodaro-coder.github.io/riskcraft-trading-8dd690/sitemap.xml
